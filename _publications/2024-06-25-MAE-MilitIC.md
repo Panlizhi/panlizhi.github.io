@@ -22,6 +22,8 @@ relevant military prompts, and augments the military semantics of the image embe
 embeddings. Finally, we demonstrate through extensive experiments that MAE-MilitIC surpasses existing models in
 performance on two challenging datasets, providing strong support for military intelligence generation.
 
-[Download paper here](http://panlizhi.github.io/files/MAE-MilitIC.pdf)
+Download paper and data:
+[MAE-MilitIC](MAE-MilitIC[http://panlizhi.github.io/files/MAE-MilitIC.pdf)
+[MOCO](https://github.com/Panlizhi/MOCO)
 
 Recommended citation: 'Pan lz, Song ct'
