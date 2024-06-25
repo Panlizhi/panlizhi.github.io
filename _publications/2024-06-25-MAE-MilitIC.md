@@ -23,7 +23,7 @@ embeddings. Finally, we demonstrate through extensive experiments that MAE-Milit
 performance on two challenging datasets, providing strong support for military intelligence generation.
 
 Download paper and data:
-[MAE-MilitIC](MAE-MilitIC[http://panlizhi.github.io/files/MAE-MilitIC.pdf)
+[MAE-MilitIC](http://panlizhi.github.io/files/MAE-MilitIC.pdf)
 [MOCO](https://github.com/Panlizhi/MOCO)
 
 Recommended citation: 'Pan lz, Song ct'
