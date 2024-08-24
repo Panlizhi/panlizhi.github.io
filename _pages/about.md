@@ -12,7 +12,7 @@ I am a PhD Candidate in the School of Mechatronical Engineering, Beijing Institu
 
 <B>Email:</B> <font color='blue'>panlz_bit@hotmail.com</font>
 
-My research recent interests are: <font color='red'> Visual Language Model, LLM, Multimodal Understanding for Military</font>.
+<B>Research interests:</B> are: <font color='red'> Visual Language Model, LLM, Multimodal Understanding for Military</font>.
 
 
 NEWS
