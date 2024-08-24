@@ -5,7 +5,7 @@ permalink: /publication/2024-06-25-MAE-MilitIC
 excerpt: ' MAE-MilitIC is a novel military image captioning method.'
 date: 2024-06-25
 venue: ' Drones '
-paperurl: 'https://www.mdpi.com/2504-446X/8/9/421'
+paperurl: 'https://doi.org/10.3390/drones8090421'
 citation: 'Pan L, Song C, Gan X, Xu K, Xie Y. Military Image Captioning for Low-Altitude UAV or UGV Perspectives. Drones. 2024; 8(9):421.'
 ---
 
@@ -15,7 +15,7 @@ Low-altitude unmanned aerial vehicles (UAVs) and unmanned ground vehicles (UGVs)
 
 Download paper and data:
 
-[MAE-MilitIC](https://www.mdpi.com/2504-446X/8/9/421)
+[MAE-MilitIC](https://doi.org/10.3390/drones8090421)
 [MOCO](https://github.com/Panlizhi/MOCO)
 
 Recommended citation:
