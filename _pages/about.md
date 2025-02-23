@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pan Lizhi (潘立志)"
+title: "Pan Lizhi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,12 +12,13 @@ I am a PhD Candidate in the School of Mechatronical Engineering, Beijing Institu
 
 <B>Email:</B> <font color='blue'>panlz_bit@hotmail.com</font>
 
-<B>Research interests:</B> <font color='red'> Visual Language Model, LLM, Multimodal Understanding for Military</font>.
+<B>Research interests:</B> <font color='red'> Visual Language Model, LLM, Multimodal Understanding</font>.
 
 
 NEWS
 ======
-Today is weekend.
+- 2025-02-14: A paper titled “Hierarchical Encoder-decoder for Image Captioning” has been submitted to journal, and the project is released at [(HeriCap)](https://github.com/Panlizhi/HierCap)
+- 2024-07-01: A military image captioning dataset has been released at [(MOCO)](https://github.com/Panlizhi/MOCO)
 
 
 Publications
