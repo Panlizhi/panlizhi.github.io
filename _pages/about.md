@@ -17,8 +17,8 @@ I am a PhD Candidate in the School of Mechatronical Engineering, Beijing Institu
 
 NEWS
 ======
-- 2025-02-14: A paper titled “Hierarchical Encoder-decoder for Image Captioning” has been submitted to journal, and the project is released at [(HeriCap)](https://github.com/Panlizhi/HierCap)
-- 2024-07-01: A military image captioning dataset has been released at [(MOCO)](https://github.com/Panlizhi/MOCO)
+- 2025-02-14: A paper titled “Hierarchical Encoder-decoder for Image Captioning” has been submitted to journal, and the project is released at [(HeriCap)](https://github.com/Panlizhi/HierCap).
+- 2024-07-01: A military image captioning dataset has been released at [(MOCO)](https://github.com/Panlizhi/MOCO).
 
 
 Publications
