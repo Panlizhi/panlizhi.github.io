@@ -24,11 +24,11 @@ NEWS
 
 Publications
 ======
-Lizhi Pan, Chengtian Song, Xiaozheng Gan, Keyu Xu, Mengqian Deng, Hierarchical encoder-decoder for image captioning, Neurocomputing, 2025, 131833, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2025.131833.
-<B>Pan L</B>, Song C, Gan X, Xu K, Xie Y. <B>Military Image Captioning for Low-Altitude UAV or UGV Perspectives[J]</B>. Drones. 2024; 8(9):421. https://doi.org/10.3390/drones8090421
-Song C, <B>Pan L</B>, Liu Q, et al. <B>Extreme learning machine under minimum information divergence criterion[J]</B>. IEEE Access, 2020, 8: 122026-122035.
-Song C, <B>Pan L</B>, Jiao Y, et al. <B>A high-performance transmitarray antenna with thin metasurface for 5G communication based on PSO (particle swarm optimization)[J]</B>. Sensors, 2020, 20(16): 4460.
-Zhu L, Song C, <B>Pan L</B>, et al. <B>Adaptive filtering under the maximum correntropy criterion with variable center[J]</B>. IEEE Access, 2019, 7: 105902-105908.
+- <B>Lizhi Pan<B>, Chengtian Song, Xiaozheng Gan, Keyu Xu, Mengqian Deng, <B>Hierarchical encoder-decoder for image captioning<B>, Neurocomputing, 2025, 131833, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2025.131833.
+- <B>Pan L</B>, Song C, Gan X, Xu K, Xie Y. <B>Military Image Captioning for Low-Altitude UAV or UGV Perspectives[J]</B>. Drones. 2024; 8(9):421. https://doi.org/10.3390/drones8090421
+- Song C, <B>Pan L</B>, Liu Q, et al. <B>Extreme learning machine under minimum information divergence criterion[J]</B>. IEEE Access, 2020, 8: 122026-122035.
+- Song C, <B>Pan L</B>, Jiao Y, et al. <B>A high-performance transmitarray antenna with thin metasurface for 5G communication based on PSO (particle swarm optimization)[J]</B>. Sensors, 2020, 20(16): 4460.
+- Zhu L, Song C, <B>Pan L</B>, et al. <B>Adaptive filtering under the maximum correntropy criterion with variable center[J]</B>. IEEE Access, 2019, 7: 105902-105908.
 
 
 <!-- #注释pursuing my master's degree in -->
