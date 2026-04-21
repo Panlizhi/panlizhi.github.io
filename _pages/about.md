@@ -17,6 +17,7 @@ I am a PhD Candidate in the School of Mechatronical Engineering, Beijing Institu
 
 NEWS
 ======
+- 2026-4-21：A paper titled “Mitigating Hallucinations in Image Captioning via Frequency Perturbation Entropy” has been accepted by [Expert Systems With Applications](https://www.sciencedirect.com/science/article/pii/S0957417426014570)
 - 2025-10-16：A paper titled “Hierarchical Encoder-decoder for Image Captioning” has been accepted by [Neurocomputing](https://doi.org/10.1016/j.neucom.2025.131833).
 - 2025-02-14: A paper titled “Hierarchical Encoder-decoder for Image Captioning” has been submitted to journal, and the project is released at [(HierCap)](https://github.com/Panlizhi/HierCap).
 - 2024-07-01: A military image captioning dataset has been released at [(MOCO)](https://github.com/Panlizhi/MOCO).
