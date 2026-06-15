@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the School of Mechatronical Engineering, Beijing Institute of Technology [(BIT)](http://www.bit.edu.cn/). In 2021, I graduated with a Master’s degree from BIT. In 2018, I got my Bachelor’s degree in North University of China [(NUC)](http://www.nuc.edu.cn/).
-
 I received my Bachelor's degree from the North University of China [(NUC)](http://www.nuc.edu.cn/) in 2018, my Master's degree from the Beijing Institute of Technology [(BIT)](http://www.bit.edu.cn/) in 2021, and my Ph.D. degree from the School of Mechatronical Engineering, BIT, in 2026.
 
 <B>Email:</B> <font color='blue'>panlz_bit@hotmail.com</font>
